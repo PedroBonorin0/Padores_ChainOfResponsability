@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa54bc4-6392-4691-8c76-3bbeccf76220" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsability.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/Acao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/AcaoAssinarContrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/AcaoAssinarFerias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/AcaoDemitirFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/AcaoPagarSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/AcaoRealizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/FuncionarioFinanceiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/FuncionarioGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/FuncionarioRH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chainofresponsability/FuncionarioSocio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/FuncionarioTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K35IB0668uFdcrxGc2PS7afXQK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chainofresponsability" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FuncionarioTest.deveRetornarSemAssinaturaParaPagarFuncionario">
+    <configuration name="FuncionarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsability" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FuncionarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioTest.deveRetornarRHParaDemissao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsability" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FuncionarioTest" />
+      <option name="METHOD_NAME" value="deveRetornarRHParaDemissao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioTest.deveRetornarSemAssinaturaParaAssinarContrato" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsability" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FuncionarioTest" />
+      <option name="METHOD_NAME" value="deveRetornarSemAssinaturaParaAssinarContrato" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioTest.deveRetornarSemAssinaturaParaPagarFuncionario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsability" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FuncionarioTest" />
+      <option name="METHOD_NAME" value="deveRetornarSemAssinaturaParaPagarFuncionario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FuncionarioTest.deveRetornarSemAssinaturaParaPagarFuncionario" />
+        <item itemvalue="JUnit.FuncionarioTest.deveRetornarSemAssinaturaParaAssinarContrato" />
+        <item itemvalue="JUnit.FuncionarioTest" />
+        <item itemvalue="JUnit.FuncionarioTest.deveRetornarRHParaDemissao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa54bc4-6392-4691-8c76-3bbeccf76220" name="Changes" comment="" />
+      <created>1673190344181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673190344181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
